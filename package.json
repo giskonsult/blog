@@ -1,0 +1,23 @@
+{
+  "name": "giskonsult.github.io",
+  "version": "1.0.0",
+  "description": "The official blog for GISkonsult",
+  "main": "",
+  "scripts": {
+    "docs:dev": "vuepress dev .",
+    "docs:build": "vuepress build ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giskonsult/giskonsult.github.io.git"
+  },
+  "keywords": [
+    "giskonsult",
+    "blog"
+  ],
+  "author": "Kudakwashe Paradzayi <kgparadzayi@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/giskonsult/giskonsult.github.io/issues"
+  },
+  "homepage": "https://github.com/giskonsult/giskonsult.github.io#readme"
+}
